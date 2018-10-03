@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesoft.training</groupId>
 	<artifactId>aesop-maven-project-sandbox-v1-0</artifactId>
-	<version>1.0.${build.number}</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule maven-project Application</name>
 	<properties>
@@ -16,7 +16,6 @@
 		<activemq.broker.version>5.15.6</activemq.broker.version>
 		<uid>jsimpson93</uid>
 		<pwd></pwd>
-		<build.number>BUILD_NUMBER</build.number>
 	</properties>
 	<build>
 		<plugins>
